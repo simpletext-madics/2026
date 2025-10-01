@@ -3,14 +3,14 @@ layout: default
 title: Program
 ---
 
-# SimpleText@CLEF-2025 Program
+# SimpleText@CLEF-2026 Program
 
 ------------------------------------------------------------
 
-* [CLEF 2025 registration](https://clef2025.clef-initiative.eu/index.php?page=Pages/registrationConference.html)
-* [CLEF 2025 program](https://clef2025.clef-initiative.eu/index.php?page=Pages/programme.html)
-* [CLEF 2025 LNCS Proceedings](https://doi.org/10.1007/978-3-032-04354-2)
-* [CLEF 2025 CEUR Working Notes](https://ceur-ws.org/Vol-4038/)
+* [CLEF 2026 registration](https://clef2025.clef-initiative.eu/index.php?page=Pages/registrationConference.html)
+* [CLEF 2026 program](https://clef2025.clef-initiative.eu/index.php?page=Pages/programme.html)
+* [CLEF 2026 LNCS Proceedings](https://doi.org/10.1007/978-3-032-04354-2)
+* [CLEF 2026 CEUR Working Notes](https://ceur-ws.org/Vol-4038/)
   
 ------------------------------------------------------------
 
@@ -22,7 +22,7 @@ SimpleText Track sessions take place in **Room Ricardo Marin** (_Facultad de Edu
 
 ## Tuesday 9th September 
 
-* No CLEF 2025 SimpleText Track sessions.
+* No CLEF 2026 SimpleText Track sessions.
 
 ## Wednesday 10th September 
 
