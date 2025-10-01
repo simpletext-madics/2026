@@ -3,7 +3,7 @@ layout: default
 title: Publication
 ---
 
-# CLEF 2025 SimpleText: Publications
+# CLEF 2026 SimpleText: Publications
 
 ---
 
