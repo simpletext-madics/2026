@@ -3,7 +3,7 @@ layout: default
 title: Contacts
 ---
 
-# CLEF 2025 SimpleText: Contacts
+# CLEF 2026 SimpleText: Contacts
 
 ---
 
@@ -12,7 +12,7 @@ title: Contacts
 - **Website** : [simpletext-project.com](http://simpletext-project.com/)
 - **Twitter** : [@SimpletextW](https://twitter.com/SimpletextW)
 - **Google Group** : [SimpleText Community](https://groups.google.com/g/simpletext)
-- **CLEF Website** : [CLEF Initiative 2025](https://clef2025.clef-initiative.eu/)
+- **CLEF Website** : [CLEF Initiative 2026](https://clef2025.clef-initiative.eu/)
 
 ---
 
