@@ -14,7 +14,7 @@ All team members should join the SimpleText mailing list:
 The data will be made available to all registered participants.
 
 ## Task 1: Text Simplification: Simplify scientific text
-The CLEF 2025 SimpleText track introduced the Cochrane-auto corpus, derived from biomedical literature abstracts and lay summaries from Cochrane systematic reviews. This corpus represents a significant expansion into the biomedical domain, building on methodologies used for datasets like Wiki-auto and Newsela-auto.
+The CLEF 2026 SimpleText track introduced the Cochrane-auto corpus, derived from biomedical literature abstracts and lay summaries from Cochrane systematic reviews. This corpus represents a significant expansion into the biomedical domain, building on methodologies used for datasets like Wiki-auto and Newsela-auto.
 
 Cochrane-auto provides authentic parallel data produced by the same authors, enabling true document-level simplification. It incorporates advanced simplification techniques such as sentence merging, reordering, and alignment with discourse structure. This approach contrasts with more standard simplification corpora by realigning data at the paragraph, sentence, and document levels.
 
@@ -52,7 +52,7 @@ This task introduces a text alignment challenge, emphasizing grounded generation
 
 ## Task 3: SimpleText 2024 Revisited: Selected tasks by popular request
 
-The CLEF 2025 SimpleText track introduces significant changes compared to previous years. To support the transition, we are considering continuing selected activities from the CLEF 2024 SimpleText tasks, including:
+The CLEF 2026 SimpleText track introduces significant changes compared to previous years. To support the transition, we are considering continuing selected activities from the CLEF 2024 SimpleText tasks, including:
   - **Content Selection** – Retrieving relevant passages to include in a simplified summary.
   - **Complexity Spotting** – Identifying complex passages that require simplification.
   - **State-of-the-Art Tracking** – Monitoring advancements in scholarly publications related to text simplification.
