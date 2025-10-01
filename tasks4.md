@@ -49,15 +49,15 @@ LeaderBoardQA requires extracting specific ânuggetsâ of information re
 
 ### Data and evaluation
 
-For LeaderBoardQA, CLEF will reuse community-aligned training data from CLEF 2024 and enhance it with human-annotated gold standards to support rigorous evaluation. The task will follow QA evaluation protocols tailored for LLM and RAG systems, with results analyzed against a comprehensive gold-standard corpus. This dataset will serve as a critical resource for benchmarking QA performance on scientific information extraction tasks, as detailed in the CLEF 2024 SimpleText Task 4 overview paper.
+For LeaderBoardQA, CLEF will reuse community-aligned training data from CLEF 2024 and enhance it with human-annotated gold standards to support rigorous evaluation. The task will follow QA evaluation protocols tailored for LLM and RAG systems, with results analysed against a comprehensive gold-standard corpus. This dataset will serve as a critical resource for benchmarking QA performance on scientific information extraction tasks, as detailed in the CLEF 2024 SimpleText Task 4 overview paper.
 
 ## Task 4: SimpleText 2024 Revisited
 
-CLEF 2025 introduces a restructured SimpleText track, aimed at adapting to new objectives and participant interests. Task 4 serves as a transitional track, potentially continuing work from CLEF 2024 tasks based on demand. Specifically, it considers re-running Task 1 on Content Selection (abstract retrieval) and Task 2 on Complexity Spotting (identifying and explaining difficult concepts). The continuation of these tracks is contingent on active interest and input from participants and organizers, with discussions planned at the CLEF 2024 conference in Grenoble.
+CLEF 2025 introduces a restructured SimpleText track, aimed at adapting to new objectives and participant interests. Task 4 serves as a transitional track, potentially continuing work from CLEF 2024 tasks based on demand. Specifically, it considers re-running Task 1 on Content Selection (abstract retrieval) and Task 2 on Complexity Spotting (identifying and explaining difficult concepts). The continuation of these tracks is contingent on active interest and input from participants and organisers, with discussions planned at the CLEF 2024 conference in Grenoble.
 
 ### Description
 
-CLEF 2025 SimpleText is very different from the earlier years. In order to facilitate the transition to the new track setup, we consider continuing one of the other CLEF 2024 SimpleText tracks (Task 1 on Content Selection: abstract re- trieval, Task 2 on Complexity Spotting: identifying and explaining difficult concepts). We will only continue those activities by request of, and with sufficient interest from, our active participants. We will discuss this with participants and the current team of organizers at CLEF 2024 in Grenoble
+CLEF 2025 SimpleText is very different from the earlier years. In order to facilitate the transition to the new track setup, we consider continuing one of the other CLEF 2024 SimpleText tracks (Task 1 on Content Selection: abstract re- trieval, Task 2 on Complexity Spotting: identifying and explaining difficult concepts). We will only continue those activities at the request of, and with sufficient interest from, our active participants. We will discuss this with participants and the current team of organisers at CLEF 2024 in Grenoble
 
 ### Data and evaluation
 
