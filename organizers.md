@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Organizers
+title: Organisers
 ---
 
-# Organizers
+# Organisers
 
 [Liana Ermakova](https://nouveau.univ-brest.fr/hcti/fr/membre/liana-ermakova), Université de Bretagne Occidentale, HCTI, France
 
@@ -24,7 +24,7 @@ title: Organizers
 
 [Frederica Vezzani](https://www.dei.unipd.it/~vezzanif/), University of Padua, Italy
 
-[Vanderlei Bonato](https://scholar.google.com.br/citations?user=zpk7tC0AAAAJ&hl=en), University of Sao Paulo, Brazil
+[Vanderlei Bonato](https://scholar.google.com.br/citations?user=zpk7tC0AAAAJ&hl=en), University of São Paulo, Brazil
 -->
 
 [Hosein Azarbonyad](https://scholar.google.com/citations?user=JHL38zQAAAAJ&hl=en), Elsevier, The Netherlands
@@ -41,7 +41,7 @@ title: Organizers
 
 [Jaap Kamps](https://e.humanities.uva.nl/), University of Amsterdam, The Netherlands
 
-## Other organizers and partners
+## Other organisers and partners
 -->
 
 [Benjamin Vendeville](https://www.linkedin.com/in/benjamin-vendeville/?originalSubdomain=fr), University of Western Brittany, France
