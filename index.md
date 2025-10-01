@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# CLEF 2025 SimpleText Track
+# CLEF 2026 SimpleText Track
 
 ---
 
@@ -15,7 +15,7 @@ Objective scientific information helps any user navigate a world where misinform
 
 While significant progress has been made in enhancing accessibility through LLMs, challenges like balancing simplicity with accuracy, dense technical terminology, maintaining logical flow, and adapting to varied audiences remain challenging. Moreover, LLMs can unintentionally introduce misinformation, distort meanings, or create content that deviates from the original text.
 
-The main goal of the CLEF 2025 SimpleText track is to advance the field of natural language processing by addressing key challenges in simplifying complex scientific texts, ensuring the reliability and accuracy of generated content, and refining popular tasks from previous editions. To ensure the transition to the new track setup, we will revisit and rerun some of the earlier tasks by popular demand.
+The main goal of the CLEF 2026 SimpleText track is to advance the field of natural language processing by addressing key challenges in simplifying complex scientific texts, ensuring the reliability and accuracy of generated content, and refining popular tasks from previous editions. To ensure the transition to the new track setup, we will revisit and rerun some of the earlier tasks by popular demand.
  
 ## [Tasks](./tasks)
 
@@ -34,7 +34,7 @@ The main goal of the CLEF 2025 SimpleText track is to advance the field of natur
 
 ## How to participate
 
-In order to participate, you should sign up at the [CLEF](https://clef2025.clef-initiative.eu/index.php?page=Pages/registration.html) website. The registration closes on April 25, 2025.
+In order to participate, you should sign up at the [CLEF](https://clef2025.clef-initiative.eu/index.php?page=Pages/registration.html) website. The registration closes on April 25, 2026.
 
 All team members should join the SimpleText mailing list:
 [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext). 
@@ -47,7 +47,7 @@ SimpleText is supported by the French research network on Big Data - Data Scienc
 
 ## References  
 
-* Ermakova, L., Azarbonyad, H., Bakker, J., Vendeville, B., Kamps, J. (2025). CLEF 2025 SimpleText Track. In: Hauff, C., et al. Advances in Information Retrieval. ECIR 2025. Lecture Notes in Computer Science, vol 15576. Springer, Cham. [https://doi.org/10.1007/978-3-031-88720-8_63](https://doi.org/10.1007/978-3-031-88720-8_63)
+* Ermakova, L., Azarbonyad, H., Bakker, J., Vendeville, B., Kamps, J. (2026). CLEF 2026 SimpleText Track. In: Hauff, C., et al. Advances in Information Retrieval. ECIR 2026. Lecture Notes in Computer Science, vol 15576. Springer, Cham. [https://doi.org/10.1007/978-3-031-88720-8_63](https://doi.org/10.1007/978-3-031-88720-8_63)
 
 ---
 
