@@ -3,7 +3,7 @@ layout: default
 title: Important dates
 ---
 
-# CLEF 2025 SimpleText: Important dates
+# CLEF 2026 SimpleText: Important dates
 
 ---
 
