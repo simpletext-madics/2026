@@ -18,7 +18,7 @@ The CLEF 2026 SimpleText track introduced the Cochrane-auto corpus, derived from
 
 Cochrane-auto provides authentic parallel data produced by the same authors, enabling true document-level simplification. It incorporates advanced simplification techniques such as sentence merging, reordering, and alignment with discourse structure. This approach contrasts with more standard simplification corpora by realigning data at the paragraph, sentence, and document levels.
 
-From that we extract two subtasks:
+Fro that we extract two subtasks:
 
 ### Task 1.1 - Sentence-level Scientific Text Simplification
 The goal of this task is to simplify whole sentences extracted from the Cochrane-auto dataset
