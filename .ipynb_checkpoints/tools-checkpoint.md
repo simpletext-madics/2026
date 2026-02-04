@@ -6,6 +6,12 @@ title: Tools
 
 ---
 
+[Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  | [Tools](./tools) | 
+[Program](./program) | [Publications](./publications) | [Organizers](./organizers) | [Contact](./contact) | [CLEF-2025](https://simpletext-project.com/2025/)
+
+---
+
+
 ## Relevant literature & tools
 ###  Task 1: Text Simplification
 * Cutting-edge language models such as LLaMA3 and Mistral are at the forefront of this process.
