@@ -8,12 +8,12 @@ title: Tasks
 ---
 
 [Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  | [Tools](./tools) | 
-[Program](./program) | [Publications](./publications) | [Organizers](./organizers) | [Contact](./contact) | [CLEF-2025](https://simpletext-project.com/2025/)
+[Program](./program) | [Publications](./publications) | [Organizers](./organizers) | [Contact](./contact) | [CLEF-2025](https://clef2026.clef-initiative.eu/)
 
 ---
 
 ## How to participate
-In order to participate, you should sign up at the [CLEF](https://clef2025.clef-initiative.eu/index.php?page=Pages/registration.html) website: [https://clef2025-labs-registration.dei.unipd.it/](https://clef2025-labs-registration.dei.unipd.it/). 
+In order to participate, you should sign up at the [CLEF](https://clef-labs-registration.dipintra.it/) website: [https://clef-labs-registration.dipintra.it/](https://clef-labs-registration.dipintra.it/). 
 
 All team members should join the SimpleText mailing list:
 [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext). 
