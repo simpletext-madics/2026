@@ -8,7 +8,7 @@ title: Home
 ---
 
 [Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  | [Tools](./tools) | 
-[Program](./program) | [Publications](./publications) | [Organizers](./organizers) | [Contact](./contact) | [CLEF-2025](https://simpletext-project.com/2025/)
+[Program](./program) | [Publications](./publications) | [Organizers](./organizers) | [Contact](./contact) | [CLEF-2026](https://clef2026.clef-initiative.eu/)
 
 ---
 
@@ -31,7 +31,9 @@ The main goal of the CLEF 2026 SimpleText track is to advance the field of natur
   - Task 2.1 - Identify Creative Generation at Document Level
   - Task 2.2 - Detect and Classify Information Distortion Errors in Simplified Sentences
   - Task 2.3 - Avoid Creative Generation and Perform Grounded Generation by Design
-- [Task 3](./tasks): SimpleText 2024 Revisited: Selected tasks by popular request
+- [Task 3](./tasks): LeaderBoardQA: Information Extraction in Scientific Documents
+  - Using Question Answering to construct a leaderboard of AI models 
+- [Task 4](./tasks): SimpleText 2024 Revisited: Selected tasks by popular request
   - Search: content selection
   - Complex terminology analysis
   - Complexities in evaluating generated definitions/explanations
@@ -39,7 +41,7 @@ The main goal of the CLEF 2026 SimpleText track is to advance the field of natur
 
 ## How to participate
 
-In order to participate, you should sign up at the [CLEF](https://clef2025.clef-initiative.eu/index.php?page=Pages/registration.html) website. The registration closes on April 25, 2026.
+In order to participate, you should sign up at the [CLEF](https://clef-labs-registration.dipintra.it/) website. The registration closes on April 23, 2026.
 
 All team members should join the SimpleText mailing list:
 [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext). 
