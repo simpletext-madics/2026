@@ -5,12 +5,7 @@ title: Home
 
 # CLEF 2026 SimpleText Track
 
----
-
-[Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  | [Tools](./tools) | 
-[Program](./program) | [Publications](./publications) | [Organizers](./organizers) | [Contact](./contact) | [CLEF-2026](https://clef2026.clef-initiative.eu/)
-
----
+{% include navbar.md %}
 
 <img align="left" src="https://github.com/simpletext-madics/2021/blob/main/clef/simpletext-logo-blue.png?raw=true" width="100"/>  
 
