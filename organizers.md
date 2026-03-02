@@ -5,12 +5,7 @@ title: Organisers
 
 # Organisers
 
----
-
-[Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  | [Tools](./tools) | 
-[Program](./program) | [Publications](./publications) | [Organizers](./organizers) | [Contact](./contact) | [CLEF-2025](https://clef2026.clef-initiative.eu/)
-
----
+{% include navbar.md %}
 
 [Liana Ermakova](https://nouveau.univ-brest.fr/hcti/fr/membre/liana-ermakova), Université de Bretagne Occidentale, HCTI, France
 
