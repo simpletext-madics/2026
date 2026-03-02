@@ -6,6 +6,9 @@ title: Tasks
 # CLEF 2025 SimpleText: Tasks
 
 ---
+
+{% include navbar.md %}
+
 ## How to participate
 In order to participate, you should sign up at the [CLEF](https://clef2025.clef-initiative.eu/index.php) website: [http://clef2025-labs-registration.dei.unipd.it/](http://clef2024-labs-registration.dei.unipd.it/). 
 
