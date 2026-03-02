@@ -42,7 +42,7 @@ SimpleText Track sessions take place in **Unknown Room **, except for the plenar
 
 ------------------------------------------------------------
 
-## All CLEF 2025 SimpleText track papers 
+## All CLEF 2026 SimpleText track papers 
 
 ### Including authors unable to present in-person or online:
 
