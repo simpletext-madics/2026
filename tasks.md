@@ -16,11 +16,12 @@ All team members should join the SimpleText mailing list:
 The data will be made available to all registered participants.
 
 ## Task 1: Text Simplification: Simplify scientific text
-The CLEF 2026 SimpleText track introduced the Cochrane-auto corpus, derived from biomedical literature abstracts and lay summaries from Cochrane systematic reviews. This corpus represents a significant expansion into the biomedical domain, building on methodologies used for datasets like Wiki-auto and Newsela-auto.
 
-Cochrane-auto provides authentic parallel data produced by the same authors, enabling true document-level simplification. It incorporates advanced simplification techniques such as sentence merging, reordering, and alignment with discourse structure. This approach contrasts with more standard simplification corpora by realigning data at the paragraph, sentence, and document levels.
+The CLEF SimpleText track introduced the Cochrane-auto corpus, derived from biomedical literature abstracts and lay summaries from Cochrane systematic reviews. This corpus represents a significant expansion into the biomedical domain, building on methodologies used in datasets such as Wiki-auto and Newsela-auto.
 
-From that we extract two subtasks:
+Cochrane-auto provides authentic parallel data produced by the same authors, enabling true document-level simplification. It incorporates advanced simplification techniques such as sentence merging, reordering, and alignment with discourse structure. This approach contrasts with more standard simplification corpora in that it realigns data at the paragraph, sentence, and document levels.
+
+We have crawled newly published Cochrane systematic reviews over the last year, and this new data will be the main test data for evaluation in 2026, focusing on two subtasks:
 
 ### Task 1.1 - Sentence-level Scientific Text Simplification
 The goal of this task is to simplify whole sentences extracted from the Cochrane-auto dataset
@@ -29,29 +30,53 @@ The goal of this task is to simplify whole sentences extracted from the Cochrane
 The goal of this task is to simplify whole documents extracted from the Cochrane-auto dataset
 
 ### Evaluation
-To evaluate results we will use standard automatic evaluation measures (SARI, BLEU, LENS, BERTscore, etc.) in combination with human assessment of samples of the submissions by translation students and professionals.
+To evaluate results, we will use standard automatic evaluation measures (SARI, BLEU, LENS, BERTscore, etc.) in combination with human assessment of samples of the submissions by translation students and professionals.
 
 ## Task 2: Controlled Creativity: Identify and Avoid Hallucination
 
-Task 2 focuses on identifying and evaluating creative generation and information distortion in text simplification.
+Task 2 focuses on identifying and evaluating creative generation and information distortion in text simplification.  We have annotated CLEF 2025 submissions to the track for potential overgeneration and other generated content that we cannot attribute to tokens in the source data.   Perhaps surprisingly, _overgeneration_ is not uncommon and ranges from a text completion model that continues after correctly simplifying a source sentence to LLM comments or notes on how the text is simplified, and from obvious extraction noise, such as left-in prompts, to conversational comments from the model used.
 
 ### Task 2.1 - Identify Creative Generation at Document Level
 
-This task aims to detect creative generation at the abstract or document level. Participants will analyze system outputs from previous years, along with deliberately generated outputs from known models. The goal is to identify which sentences are fully grounded in the source text, both without access to the original sentences and with access to them. Additionally, sentences that introduce significant new content must be labeled. This task serves as a post-hoc identification or explanation challenge.
+This task aims to detect creative generation at the abstract or document level.  The task is to detect what sentences are fully grounded on source input (a) without and (b) with access to the source sentences, and thereby also label those introducing significant new content. Task 2.1 is a post-hoc identification or explanation task.
+
+For 2026, we focus on significant new content (typically an entire sentence) introduced in the prediction.  
 
 ### Task 2.2 - Detect and Classify Information Distortion Errors in Simplified Sentences
 
-This task focuses on detecting information distortion in simplified sentences and classifying the types of errors.
+This task tries to "mimic" traditional manual human evaluation by LLMs.  focuses on detecting information distortion in simplified sentences and classifying the types of errors.  As text-generation-based automatic evaluation measures (such as BLEU and SARI), which rely on text overlap, are notoriously imprecise, we need to conduct human evaluations of fluency, simplicity, and factuality. Usually, these annotations are not reusable. However, we use them as the training and test data for systems to automatically detect and annotate such information distortion in real CLEF submissions.  The manual annotations of CLEF 2025 Task 1 submissions can be reused as ground truth data for information distortion classification in CLEF 2026 Task 2.
+
+For 2026, we focus on identifying the type of overgeneration.
 
 ### Task 2.3 - Avoid Creative Generation and Perform Grounded Generation by Design
 
 This task introduces a text alignment challenge, emphasizing grounded generation over creative generation. This task mirrors Task 1 on text simplification and requires submissions in paired runs, both with and without explicit source attribution.
 
 ### Evaluation
- - Task 2.1 is essentially a sentence label task, evaluated in the standard way (Precision, Recall, F1). For token-level evaluation, we use standard Jaccard.
+ - Task 2.1 is essentially a sentence label task, evaluated in the standard way (Precision, Recall, F1). For token-level evaluation, we use the standard Jaccard.
  - Task 2.2 is evaluated using standard automatic classification measures. 
  - Task 2.3 will be evaluated by both standard automatic measures and human evaluation, similar to Task 1 on Text Simplification above. The paired runs enable us to sample  differences at the sentence and phrase levels and evaluate them efficiently, using tools like MT Unbabel.
 
+## Task 3: Research Area Classification
+
+Task 3 is a new task that asks for the _classification of scientific articles by research area._
+
+The task promotes the development of automatic methods for classifying scientific articles using a given taxonomy.  This greatly extends the scope of traditional subject classification and can accelerate the adoption of consistent metadata across collections (arXiv, Openaire, MADOC), as well as facilitate consistent reporting and monitoring of research output and impact.  In 2026, we focus on the [DFG subject classification](https://www.dfg.de/resource/blob/331950/fachsystematik-2024-2028-en.pdf)  as the target classification.
+
+### Data 
+
+For datasets, we will use scientific publications crawled from arXiv. arXiv has provided open access to scholarly articles across disciplines such as physics, computer science, mathematics, and economics. The collected dataset is further annotated by DFG subject classification.
+
+### Evaluation
+
+LLMs might produce some “near misses” with their results when, for instance, a research area like “Computer Science & Engineering” might be predicted as just “Computer Science”. To overcome these challenges, we used several approaches to determine the actual matches:
+
+- *Exact Match (EM)*: a binary measure comparing the output of the model directly with the ground truth.
+- *String Distance (SD)*: a normalized Levenshtein distance between the prediction and reference.
+- *Embedding Distance (ED)*: a semantic similarity measure based on the BERT-embeddings of the prediction and reference.
+
+The evaluation will focus on EM-accuracy as the main overall performance measure.
+<!--
 ## Task 3: LeaderBoardQA
 
 Task 3, known as LeaderBoardQA, extends a pilot task from CLEF 2024 focused on information extraction in scientific documents. Participants are tasked with constructing a leaderboard-like output by using domain-specific question-answering (QA) to retrieve performance metrics on AI models. This task challenges participants to gather exact performance data and relevant metrics on specified AI models, or on models and benchmarks combined, directly from a scientific corpus. The approach encourages using advanced Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems, with both open-corpus and closed-book submission formats supported.
@@ -64,14 +89,8 @@ LeaderBoardQA requires extracting specific ânuggetsâ of information re
 
 For LeaderBoardQA, CLEF will reuse community-aligned training data from CLEF 2024 and enhance it with human-annotated gold standards to support rigorous evaluation. The task will follow QA evaluation protocols tailored for LLM and RAG systems, with results analysed against a comprehensive gold-standard corpus. This dataset will serve as a critical resource for benchmarking QA performance on scientific information extraction tasks, as detailed in the CLEF 2024 SimpleText Task 4 overview paper.
 
-## Task 4: SimpleText 2024 Revisited
+-->
 
-CLEF 2025 introduces a restructured SimpleText track, aimed at adapting to new objectives and participant interests. Task 4 serves as a transitional track, potentially continuing work from CLEF 2024 tasks based on demand. Specifically, it considers re-running Task 1 on Content Selection (abstract retrieval) and Task 2 on Complexity Spotting (identifying and explaining difficult concepts). The continuation of these tracks is contingent on active interest and input from participants and organisers, with discussions planned at the CLEF 2024 conference in Grenoble.
+## Task 4: SimpleText Revisited
 
-### Description
-
-CLEF 2025 SimpleText is very different from the earlier years. In order to facilitate the transition to the new track setup, we consider continuing one of the other CLEF 2024 SimpleText tracks (Task 1 on Content Selection: abstract re- trieval, Task 2 on Complexity Spotting: identifying and explaining difficult concepts). We will only continue those activities at the request of, and with sufficient interest from, our active participants. We will discuss this with participants and the current team of organisers at CLEF 2024 in Grenoble
-
-### Data and evaluation
-
-For further reference on methodology and evaluation criteria, details are available in the LNCS track overview paper by Ermakova et al. (2024b), as well as in the CEUR task overview papers for CLEF 2024 SimpleText Task 1 (Sanjuan et al., 2024) and Task 2 (Di Nunzio et al., 2024).
+We encourage revisiting tasks from earlier years of the CLEF SimpleText Track.  The [Codabench of CLEF 2025 SimpleText Task 1](https://www.codabench.org/competitions/8400/) and the [Codabench of CLEF 2025 SimpleText Task 2](https://www.codabench.org/competitions/8327/) are still operational, and participants are invited to report on experiments on all tasks from earlier years in their CLEF 2026 paper submissions. 
