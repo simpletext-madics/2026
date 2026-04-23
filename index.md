@@ -26,12 +26,12 @@ The main goal of the CLEF 2026 SimpleText track is to advance the field of natur
   - Task 2.1 - Identify Creative Generation at Document Level
   - Task 2.2 - Detect and Classify Information Distortion Errors in Simplified Sentences
   - Task 2.3 - Avoid Creative Generation and Perform Grounded Generation by Design
-- [Task 3](./tasks): LeaderBoardQA: Information Extraction in Scientific Documents
-  - Using Question Answering to construct a leaderboard of AI models 
-- [Task 4](./tasks): SimpleText 2024 Revisited: Selected tasks by popular request
-  - Search: content selection
-  - Complex terminology analysis
-  - Complexities in evaluating generated definitions/explanations
+- [Task 3](./tasks): Research Area Classification
+  - Task 3 is a new task that asks for the _classification of scientific articles by research area.
+- [Task 4](./tasks): SimpleText Revisited
+  - We encourage revisiting tasks from earlier years of the CLEF SimpleText Track.
+  - The [Codabench of CLEF 2025 SimpleText Task 1](https://www.codabench.org/competitions/8400/) and the [Codabench of CLEF 2025 SimpleText Task 2](https://www.codabench.org/competitions/8327/) are still operational, and participants are invited to report on experiments on all tasks from earlier years in their CLEF 2026 paper submissions. 
+ 
 
 
 ## How to participate
