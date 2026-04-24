@@ -76,20 +76,6 @@ LLMs might produce some “near misses” with their results when, for instance,
 - *Embedding Distance (ED)*: a semantic similarity measure based on the BERT-embeddings of the prediction and reference.
 
 The evaluation will focus on EM-accuracy as the main overall performance measure.
-<!--
-## Task 3: LeaderBoardQA
-
-Task 3, known as LeaderBoardQA, extends a pilot task from CLEF 2024 focused on information extraction in scientific documents. Participants are tasked with constructing a leaderboard-like output by using domain-specific question-answering (QA) to retrieve performance metrics on AI models. This task challenges participants to gather exact performance data and relevant metrics on specified AI models, or on models and benchmarks combined, directly from a scientific corpus. The approach encourages using advanced Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems, with both open-corpus and closed-book submission formats supported.
-
-### Description
-
-LeaderBoardQA requires extracting specific ânuggetsâ of information related to AI model performance from a full-text scientific corpus. These nuggets include exact details on model performance and relevant metrics, assessed across a range of benchmarks. Participants are expected to leverage LLMs and RAGs for accurate and reliable extraction, aiding in the construction of a comprehensive leaderboard for model performance. Building upon CLEF 2024's SimpleText SOTA task, this extension broadens its scope to evaluate the potential of domain-specific QA in generating benchmark datasets and improving AI performance transparency.
-
-### Data and evaluation
-
-For LeaderBoardQA, CLEF will reuse community-aligned training data from CLEF 2024 and enhance it with human-annotated gold standards to support rigorous evaluation. The task will follow QA evaluation protocols tailored for LLM and RAG systems, with results analysed against a comprehensive gold-standard corpus. This dataset will serve as a critical resource for benchmarking QA performance on scientific information extraction tasks, as detailed in the CLEF 2024 SimpleText Task 4 overview paper.
-
--->
 
 ## Task 4: SimpleText Revisited
 
