@@ -21,9 +21,27 @@ SimpleText Track sessions take place in **Unknown Room **, except for the plenar
 
 ## Monday 21st September 
 
-* To be announced.
+### Lab Overviews Session 1 (Lecture Room 3) 
 
+* **11:40 – 12:30** **L. Ermakova**, H. Azarbonyad, J. Bakker, B. Chakar, G.K. Shahi, J. Kamps, _Overview of the CLEF 2026 SimpleText Track: Simplify Scientific Texts (and Nothing More)_ in: Proceedings of CLEF'26, LNCS, Springer, 2026 ([Paper](XXX), [Slides](XXX)). 
+
+### SimpleText Track Session 1/3 (Room ???)
+
+* **14:00-15:30** CLEF 2026 SimpleText Task Overviews:
+
+14:00	–	15:30	SimpleText 1/3	
+
+### SimpleText Track Session 2/3 (Room ???)
+
+* **16:00 - 17:30** CLEF 2026 Participant presentations:
+
+* To be announced.
+  
 ## Tuesday 22nd September 
+
+### SimpleText Track Session 3/3 (Room ???)
+
+* **14:00	–	15:30** CLEF 2026 Participant presentations:
 
 * To be announced.
 
@@ -35,6 +53,7 @@ SimpleText Track sessions take place in **Unknown Room **, except for the plenar
 
 ### Closing Ceremony and Introduction of CLEF 2027 
 
+* **16:00	–	17:30** Closing and plans for 2027 (including slides on the CLEF 2027 SimpleText track, Slides).
 ------------------------------------------------------------
 
 ## All CLEF 2026 SimpleText track papers 
