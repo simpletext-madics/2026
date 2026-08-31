@@ -16,7 +16,7 @@ title: Program
   
 ------------------------------------------------------------
 
-SimpleText Track sessions take place in **Unknown Room **, except for the plenary CLEF conference sessions in **Lecture Room 3**.
+SimpleText Track sessions take place in **Unknown Room**, except for the plenary CLEF conference sessions in **Lecture Room 3**.
 
 
 ## Monday 21st September 
