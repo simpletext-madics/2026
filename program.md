@@ -49,6 +49,22 @@ SimpleText Track sessions take place in **Unknown Room**, except for the plenary
 
 * To be announced.
 
+* (Time for additional talks, depending on demand, from the SimpleText track.)
+
+* **15:15 - 15:30** CLEF 2027 SimpleText Planning Session:
+    * We want to hear from *you*!
+    * What was great about 2026, and what could we improve for you?
+    * Any ideas or volunteers are welcome!
+    * SimpleText roadmap (Slides):
+        * New data/tasks/setup in 2027?
+        * Corpus of document/paragraph/sentence aligned Cochrane abstracts and plain English summaries.
+          * Full Cochrane abstracts and Section-level data
+          * Cochrane data in other languages. 
+        * Spotting potential "hallucination" for generative output.
+          * Detection without source? and with source?
+          * Automatic version of human evaluation/annotation?
+          * Source attribution task?   
+
 ## Wednesday 23rd September 
 
 * No track sessions.
