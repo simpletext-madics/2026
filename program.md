@@ -23,20 +23,66 @@ SimpleText Track sessions take place in **Unknown Room**, except for the plenary
 
 ### Lab Overviews Session 1 (Lecture Room 3) 
 
-* **11:30 – 12:30** **L. Ermakova**, H. Azarbonyad, J. Bakker, B. Chakar, G.K. Shahi, J. Kamps, _Overview of the CLEF 2026 SimpleText Track: Simplify Scientific Texts (and Nothing More)_ in: Proceedings of CLEF'26, LNCS, Springer, 2026 (Paper, Slides). 
+* **11:30 – 12:30** <ins>L. Ermakova</ins>, H. Azarbonyad, J. Bakker, B. Chakar, G.K. Shahi, J. Kamps, _Overview of the CLEF 2026 SimpleText Track: Simplify Scientific Texts (and Nothing More)_ in: Proceedings of CLEF'26, LNCS, Springer, 2026 (Paper, Slides). 
 
 ### SimpleText Track Session 1/3 (Room ???)
 
-* **14:00-15:30** CLEF 2026 SimpleText Task Overviews:
+* **14:00-14:45** CLEF 2026 SimpleText Task Overviews:
 
-14:00	–	15:30	SimpleText 1/3	
+* Jan Bakker, Liana Ermakova, <ins>Jaap Kamps</ins>
+_Overview of the CLEF 2026 SimpleText Task 1: Simplify Scientific Text_, 5907-5928
+([Paper](https://clef-staging.pages.dev/paper444.pdf)).
+
+* Berkay Chakar, Jan Bakker, Liana Ermakova, <ins>Jaap Kamps</ins>
+_Overview of the CLEF 2026 SimpleText Task 2: Identify and Avoid Hallucination_, 5929-5944
+([Paper](https://clef-staging.pages.dev/paper445.pdf)).
+
+* <ins>Gautam Kishore Shahi</ins>, Liana Ermakova, Jaap Kamps
+_Overview of the CLEF 2026 SimpleText Task 3: Research Area Classification_, 5945-5953
+([Paper](https://clef-staging.pages.dev/paper446.pdf)).
+
+* **14:45-15:30** CLEF 2026 SimpleText Participant presentations:
+
+* Pascal Mathas, Berkay Chakar, David Carranza Navarrete, <ins>Jan Bakker</ins>, Jaap Kamps
+_University of Amsterdam at the CLEF 2026 SimpleText Track_, 6170-6179
+([Paper](https://clef-staging.pages.dev/paper464.pdf)).
+
+* Benjamin Vendeville, <ins>Liana Ermakova</ins>, Pierre De Loor
+_UBONLP Report on the SimpleText Track at CLEF 2026_, 6233-6243
+([Paper](https://clef-staging.pages.dev/paper471.pdf)).
+
+* (Time for additional talks, depending on demand, from the SimpleText track.)
 
 ### SimpleText Track Session 2/3 (Room ???)
 
-* **16:00 - 17:30** CLEF 2026 Participant presentations:
+* **16:00 - 17:30** CLEF 2026 SimpleText Participant presentations:
 
-* To be announced.
-  
+* 📶 <ins>Ella Hawkins</ins>, Kristina Zbinden, Ellis Fitzgerald, Behrooz Mansouri
+_AIIRLab Systems at SimpleText CLEF 2026: Ensemble and Multi-Agent Pipelines for Scientific Text Simplification_, 6088-6099
+([Paper](https://clef-staging.pages.dev/paper457.pdf)).
+
+* 📶 <ins>Sujith M</ins>, Sree Krishna S, Varghese K James, Prabavathy Balasundaram
+_SSN Tokatrons at the CLEF 2026 SimpleText Track: Plan-Guided BART and Zero-Shot LLM Approaches to Biomedical Text Simplification_, 6160-6169
+([Paper](https://clef-staging.pages.dev/paper463.pdf)).
+
+* 📶 <ins>Artemis Capari</ins>, Hosein Azarbonyad, Zubair Afzal, George Tsatsaronis
+_Elsevier at CLEF 2026 SimpleText: Deconstructing Scientific Text Simplification with Direct and Multi-Stage LLM Approaches_, 6010-6034
+([Paper](https://clef-staging.pages.dev/paper451.pdf)).
+
+* 📶 <ins>Akio Hayakawa</ins>, Horacio Saggion
+_UPF-TALN at the CLEF 2026 SimpleText Track: Ensemble Approach for Scientific Text Simplification and Hallucination Classification_, 6100-6114
+([Paper](https://clef-staging.pages.dev/paper458.pdf)).
+
+* 📶 <ins>Manoj Kumar</ins>, Prabavathy Balasundaram, Deeraj Kumar
+_Multilingual Scientific Text Simplification Using a Locally Deployed Open-Source LLM: Plan-Driven Sentence Simplification and Summary-Guided Document Simplification with Llama 3.1 8B at the CLEF 2026 SimpleText Track --- Task 1_, 6140-6152
+([Paper](https://clef-staging.pages.dev/paper461.pdf)).
+
+* Clyde Lanvin Njinpie Noutche, <ins>Christin Katharina Kreutz</ins>
+_clnn88@SimpleText 2026 - Task 1: Llama 3-based Simplification for Biomedical Text_, 6196-6202
+([Paper](https://clef-staging.pages.dev/paper467.pdf)).
+
+* (Time for additional talks, depending on demand, from the SimpleText track.)
+
 ## Tuesday 22nd September 
 
 ### Best of Labs, 2025 (Lecture Room 3)
@@ -45,9 +91,15 @@ SimpleText Track sessions take place in **Unknown Room**, except for the plenary
 
 ### SimpleText Track Session 3/3 (Room ???)
 
-* **14:00	–	15:30** CLEF 2026 Participant presentations:
+* **14:00	–	15:15** CLEF 2026 Participant presentations:
 
-* To be announced.
+* <ins>Shih-Hung Wu</ins>, Chong-Zhe Yan
+_CYUT at CLEF 2026 SimpleText Track: Hallucination Detection based on Retrieval-Aligned Contextual Fusion and Multi-Tier Cascaded Discernment_, 6244-6254
+([Paper](https://clef-staging.pages.dev/paper472.pdf)).
+
+* Julian Dauenhauer, Nico Hofmann, <ins>Christin Katharina Kreutz</ins>
+_THM@SimpleText 2026 - Task 2: Ensemble-based Hallucination Classification in Text Simplification_, 6079-6087
+([Paper](https://clef-staging.pages.dev/paper456.pdf)).
 
 * (Time for additional talks, depending on demand, from the SimpleText track.)
 
@@ -60,7 +112,7 @@ SimpleText Track sessions take place in **Unknown Room**, except for the plenary
         * Corpus of document/paragraph/sentence aligned Cochrane abstracts and plain English summaries.
           * Full Cochrane abstracts and Section-level data
           * Cochrane data in other languages. 
-        * Spotting potential "hallucination" for generative output.
+        * Spotting potential "hallucination" in generative output.
           * Detection without source? and with source?
           * Automatic version of human evaluation/annotation?
           * Source attribution task?   
