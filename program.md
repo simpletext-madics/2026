@@ -97,6 +97,14 @@ _clnn88@SimpleText 2026 - Task 1: Llama 3-based Simplification for Biomedical Te
 _CYUT at CLEF 2026 SimpleText Track: Hallucination Detection based on Retrieval-Aligned Contextual Fusion and Multi-Tier Cascaded Discernment_, 6244-6254
 ([Paper](https://clef-staging.pages.dev/paper472.pdf)).
 
+* <ins>Marc Hurtado</ins>, Vicent Ahuir, Antonio Molina, María-José Castro-Bleda
+_ELiRF-UPV at SimpleText 2026: Decoupling Action Prediction and Controlled Generation for Text Simplification_, 6115-6132
+([Paper](https://clef-staging.pages.dev/paper459.pdf)).
+
+* 📶 Nuria Pirvu, <ins>Rémi Cardon</ins>
+_HULAT-HAI @ SimpleText 2026 Task 1.1: Prompting Based on Linguistic Analysis for Text Simplification_, 6203-6211
+([Paper](https://clef-staging.pages.dev/paper468.pdf)).
+
 * Julian Dauenhauer, Nico Hofmann, <ins>Christin Katharina Kreutz</ins>
 _THM@SimpleText 2026 - Task 2: Ensemble-based Hallucination Classification in Text Simplification_, 6079-6087
 ([Paper](https://clef-staging.pages.dev/paper456.pdf)).
