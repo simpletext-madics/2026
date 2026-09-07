@@ -27,7 +27,7 @@ SimpleText Track sessions take place in **Unknown Room**, except for the plenary
 
 ### SimpleText Track Session 1/3 (Room ???)
 
-* **14:00-14:45** CLEF 2026 SimpleText Task Overviews:
+* **14:00 - 14:45** CLEF 2026 SimpleText Task Overviews:
 
 * Jan Bakker, Liana Ermakova, <ins>Jaap Kamps</ins>
 _Overview of the CLEF 2026 SimpleText Task 1: Simplify Scientific Text_, 5907-5928
@@ -41,7 +41,7 @@ _Overview of the CLEF 2026 SimpleText Task 2: Identify and Avoid Hallucination_,
 _Overview of the CLEF 2026 SimpleText Task 3: Research Area Classification_, 5945-5953
 ([Paper](https://clef-staging.pages.dev/paper446.pdf)).
 
-* **14:45-15:30** CLEF 2026 SimpleText Participant presentations:
+* **14:45 - 15:30** CLEF 2026 SimpleText Participant presentations:
 
 * 📶 Nuria Pirvu, <ins>Rémi Cardon</ins>
 _HULAT-HAI @ SimpleText 2026 Task 1.1: Prompting Based on Linguistic Analysis for Text Simplification_, 6203-6211
@@ -91,7 +91,7 @@ _clnn88@SimpleText 2026 - Task 1: Llama 3-based Simplification for Biomedical Te
 
 ### SimpleText Track Session 3/3 (Room ???)
 
-* **14:00	–	15:00** CLEF 2026 Participant presentations:
+* **14:00 – 15:15** CLEF 2026 Participant presentations:
 
 * Pascal Mathas, Berkay Chakar, David Carranza Navarrete, <ins>Jan Bakker</ins>, Jaap Kamps
 _University of Amsterdam at the CLEF 2026 SimpleText Track_, 6170-6179
@@ -105,13 +105,17 @@ _CYUT at CLEF 2026 SimpleText Track: Hallucination Detection based on Retrieval-
 _ELiRF-UPV at SimpleText 2026: Decoupling Action Prediction and Controlled Generation for Text Simplification_, 6115-6132
 ([Paper](https://clef-staging.pages.dev/paper459.pdf)).
 
+* Sandra Conde, Pablo Folgueira, <ins>Alberto Díaz</ins>
+_NIL-UCM at the CLEF 2026 SimpleText Track: Prompting, Fine-Tuning, and Multi-Agent Architectures for Biomedical Text Simplification_, 6056-6067
+([Paper](https://clef-staging.pages.dev/paper454.pdf)).
+
 * Julian Dauenhauer, Nico Hofmann, <ins>Christin Katharina Kreutz</ins>
 _THM@SimpleText 2026 - Task 2: Ensemble-based Hallucination Classification in Text Simplification_, 6079-6087
 ([Paper](https://clef-staging.pages.dev/paper456.pdf)).
 
 * (Time for additional talks, depending on demand, from the SimpleText track.)
 
-* **15:00 - 15:30** CLEF 2027 SimpleText Planning Session:
+* **15:15 - 15:30** CLEF 2027 SimpleText Planning Session:
     * We want to hear from *you*!
     * What was great about 2026, and what could we improve for you?
     * Any ideas or volunteers are welcome!
