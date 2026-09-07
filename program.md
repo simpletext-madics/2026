@@ -47,6 +47,10 @@ _Overview of the CLEF 2026 SimpleText Task 3: Research Area Classification_, 594
 _HULAT-HAI @ SimpleText 2026 Task 1.1: Prompting Based on Linguistic Analysis for Text Simplification_, 6203-6211
 ([Paper](https://clef-staging.pages.dev/paper468.pdf)).
 
+* Pascal Mathas, Berkay Chakar, David Carranza Navarrete, <ins>Jan Bakker</ins>, Jaap Kamps
+_University of Amsterdam at the CLEF 2026 SimpleText Track_, 6170-6179
+([Paper](https://clef-staging.pages.dev/paper464.pdf)).
+
 * Benjamin Vendeville, <ins>Liana Ermakova</ins>, Pierre De Loor
 _UBONLP Report on the SimpleText Track at CLEF 2026_, 6233-6243
 ([Paper](https://clef-staging.pages.dev/paper471.pdf)).
@@ -92,10 +96,6 @@ _clnn88@SimpleText 2026 - Task 1: Llama 3-based Simplification for Biomedical Te
 ### SimpleText Track Session 3/3 (Room ???)
 
 * **14:00 – 15:15** CLEF 2026 Participant presentations:
-
-* Pascal Mathas, Berkay Chakar, David Carranza Navarrete, <ins>Jan Bakker</ins>, Jaap Kamps
-_University of Amsterdam at the CLEF 2026 SimpleText Track_, 6170-6179
-([Paper](https://clef-staging.pages.dev/paper464.pdf)).
 
 * <ins>Shih-Hung Wu</ins>, Chong-Zhe Yan
 _CYUT at CLEF 2026 SimpleText Track: Hallucination Detection based on Retrieval-Aligned Contextual Fusion and Multi-Tier Cascaded Discernment_, 6244-6254
