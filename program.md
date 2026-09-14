@@ -37,7 +37,7 @@ _Overview of the CLEF 2026 SimpleText Task 1: Simplify Scientific Text_, 5907-59
 _Overview of the CLEF 2026 SimpleText Task 2: Identify and Avoid Hallucination_, 5929-5944
 ([Paper](https://clef-staging.pages.dev/paper445.pdf)).
 
-* <ins>Gautam Kishore Shahi</ins>, Liana Ermakova, Jaap Kamps
+* 📶 <ins>Gautam Kishore Shahi</ins>, Liana Ermakova, Jaap Kamps
 _Overview of the CLEF 2026 SimpleText Task 3: Research Area Classification_, 5945-5953
 ([Paper](https://clef-staging.pages.dev/paper446.pdf)).
 
