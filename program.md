@@ -25,7 +25,7 @@ SimpleText Track sessions take place in **Unknown Room**, except for the plenary
 
 * **11:30 – 12:30** <ins>L. Ermakova</ins>, H. Azarbonyad, J. Bakker, B. Chakar, G.K. Shahi, J. Kamps, _Overview of the CLEF 2026 SimpleText Track: Simplify Scientific Texts (and Nothing More)_ in: Proceedings of CLEF'26, LNCS, Springer, 2026 (Paper, Slides, [DOI](https://doi.org/10.1007/978-3-032-39150-6_35)). 
 
-### SimpleText Track Session 1/3 (Room ???)
+### SimpleText Track Session 1/3 (Room 113)
 
 * **14:00 - 14:45** CLEF 2026 SimpleText Task Overviews:
 
@@ -57,7 +57,7 @@ _UBONLP Report on the SimpleText Track at CLEF 2026_, 6233-6243
 
 * (Time for additional talks, depending on demand, from the SimpleText track.)
 
-### SimpleText Track Session 2/3 (Room ???)
+### SimpleText Track Session 2/3 (Room 113)
 
 * **16:00 - 17:30** CLEF 2026 SimpleText Participant presentations:
 
@@ -93,7 +93,7 @@ _clnn88@SimpleText 2026 - Task 1: Llama 3-based Simplification for Biomedical Te
 
 * **12:05 - 12:30** Nico Hofmann, Julian Dauenhauer, Nils Ole Dietzler, Idehen Daniel Idahor and Christin Katharina Kreutz, _Lexical Simplification for Scientific Texts: Revisiting SARI in the Era of Modern LLMs_ in: Proceedings of CLEF'26, LNCS, Springer, 2026 (Paper, Slides). 
 
-### SimpleText Track Session 3/3 (Room ???)
+### SimpleText Track Session 3/3 (Room 113)
 
 * **14:00 – 15:15** CLEF 2026 Participant presentations:
 
