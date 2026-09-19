@@ -18,6 +18,10 @@ title: Program
 
 SimpleText Track sessions take place in **Room 113**, except for the plenary CLEF conference sessions in **Lecture Room 3**.
 
+Remote participation links:
+* Lecture Room 3: [Zoom Link](https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1)
+* Lecture Room 113: [Zoom link](https://uni-jena-de.zoom-x.de/j/61417744528?pwd=65cTOfd9NjH9zj4lUuIpsbMNSr6XzU.1)
+
 
 ## Monday 21st September 
 
