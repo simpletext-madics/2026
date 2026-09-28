@@ -27,7 +27,7 @@ Remote participation links:
 
 ### Lab Overviews Session 1 (Lecture Room 3) 
 
-* **11:30 – 12:30** <ins>L. Ermakova</ins>, H. Azarbonyad, J. Bakker, B. Chakar, G.K. Shahi, J. Kamps, _Overview of the CLEF 2026 SimpleText Track: Simplify Scientific Texts (and Nothing More)_ in: Proceedings of CLEF'26, LNCS, Springer, 2026 (Paper, Slides, [DOI](https://doi.org/10.1007/978-3-032-39150-6_35)). 
+* **11:30 – 12:30** <ins>L. Ermakova</ins>, H. Azarbonyad, J. Bakker, B. Chakar, G.K. Shahi, J. Kamps, _Overview of the CLEF 2026 SimpleText Track: Simplify Scientific Texts (and Nothing More)_ in: Proceedings of CLEF'26, LNCS, Springer, 2026 (Paper, [Slides](slides/CLEF26_SimpleText_Track_Overview.pdf), [DOI](https://doi.org/10.1007/978-3-032-39150-6_35)). 
 
 ### SimpleText Track Session 1/3 (Room 113)
 
@@ -35,15 +35,15 @@ Remote participation links:
 
 * Jan Bakker, Liana Ermakova, <ins>Jaap Kamps</ins>
 _Overview of the CLEF 2026 SimpleText Task 1: Simplify Scientific Text_, 5907-5928
-([Paper](https://clef-staging.pages.dev/paper444.pdf)).
+([Paper](https://clef-staging.pages.dev/paper444.pdf), [Slides](slides/CLEF26_SimpleText_Task_Overview.pdf)).
 
 * Berkay Chakar, Jan Bakker, Liana Ermakova, <ins>Jaap Kamps</ins>
 _Overview of the CLEF 2026 SimpleText Task 2: Identify and Avoid Hallucination_, 5929-5944
-([Paper](https://clef-staging.pages.dev/paper445.pdf)).
+([Paper](https://clef-staging.pages.dev/paper445.pdf), [Slides](slides/CLEF26_SimpleText_Task_Overview.pdf)).
 
 * 📶 <ins>Gautam Kishore Shahi</ins>, Liana Ermakova, Jaap Kamps
 _Overview of the CLEF 2026 SimpleText Task 3: Research Area Classification_, 5945-5953
-([Paper](https://clef-staging.pages.dev/paper446.pdf)).
+([Paper](https://clef-staging.pages.dev/paper446.pdf), [Slides](slides/CLEF26_SimpleText_Task_Overview.pdf)).
 
 * **14:45 - 15:30** CLEF 2026 SimpleText Participant presentations:
 
@@ -123,7 +123,7 @@ _THM@SimpleText 2026 - Task 2: Ensemble-based Hallucination Classification in Te
     * We want to hear from *you*!
     * What was great about 2026, and what could we improve for you?
     * Any ideas or volunteers are welcome!
-    * SimpleText roadmap (Slides):
+    * SimpleText roadmap ([Slides](slides/CLEF26_SimpleText_Task_Overview.pdf)):
         * New data/tasks/setup in 2027?
         * Corpus of document/paragraph/sentence aligned Cochrane abstracts and plain English summaries.
           * Full Cochrane abstracts and Section-level data
@@ -141,7 +141,7 @@ _THM@SimpleText 2026 - Task 2: Ensemble-based Hallucination Classification in Te
 
 ### Closing Ceremony and Introduction of CLEF 2027 
 
-* **16:00	–	17:30** Closing and plans for 2027 (including slides on the CLEF 2027 SimpleText track, Slides).
+* **16:00	–	17:30** Closing and plans for 2027 (including slides on the CLEF 2027 SimpleText track, [Slides](slides/CLEF27_SimpleText_Track.pdf)).
 
 ------------------------------------------------------------
 
