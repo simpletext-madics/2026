@@ -57,7 +57,7 @@ _University of Amsterdam at the CLEF 2026 SimpleText Track_, 6170-6179
 
 * Benjamin Vendeville, <ins>Liana Ermakova</ins>, Pierre De Loor
 _UBONLP Report on the SimpleText Track at CLEF 2026_, 6233-6243
-([Paper](https://clef-staging.pages.dev/paper471.pdf)).
+([Paper](https://clef-staging.pages.dev/paper471.pdf), [Slides](slides/CLEF26_SimpleText_UBONLP.pdf)).
 
 * (Time for additional talks, depending on demand, from the SimpleText track.)
 
@@ -217,7 +217,7 @@ _ELiRF-UPV at SimpleText 2026: Decoupling Action Prediction and Controlled Gener
 
 * Shimaa Ibrahim, Wajdi Zaghouani
 _NUQLab at SimpleText 2026: Plan-Guided Biomedical Scientific Text Simplification_, 6133-6139
-([Paper](https://clef-staging.pages.dev/paper460.pdf), [Slides](slides/NUQLab_CLEF2026_SimpleText.pdf)).
+([Paper](https://clef-staging.pages.dev/paper460.pdf), [Slides](slides/CLEF26_SimpleText_NUQLab.pdf)).
 
 * Manoj Kumar, Prabavathy Balasundaram, Deeraj Kumar
 _Multilingual Scientific Text Simplification Using a Locally Deployed Open-Source LLM: Plan-Driven Sentence Simplification and Summary-Guided Document Simplification with Llama 3.1 8B at the CLEF 2026 SimpleText Track --- Task 1_, 6140-6152
