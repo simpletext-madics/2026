@@ -93,7 +93,7 @@ _clnn88@SimpleText 2026 - Task 1: Llama 3-based Simplification for Biomedical Te
 
 ## Tuesday 22nd September 
 
-### Best of Labs, 2025 (Lecture Room 3)
+### Best of Labs, CLEF 2025 (Lecture Room 3)
 
 * **12:05 - 12:30** Nico Hofmann, Julian Dauenhauer, Nils Ole Dietzler, Idehen Daniel Idahor and Christin Katharina Kreutz, _Lexical Simplification for Scientific Texts: Revisiting SARI in the Era of Modern LLMs_ in: Proceedings of CLEF'26, LNCS, Springer, 2026 (Paper, [Slides](slides/CLEF25_SimpleText_BOTL_THM.pdf), [DOI](https://doi.org/10.1007/978-3-032-39150-6_16)). 
 
