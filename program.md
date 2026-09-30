@@ -67,7 +67,7 @@ _UBONLP Report on the SimpleText Track at CLEF 2026_, 6233-6243
 
 * 📶 <ins>Ella Hawkins</ins>, Kristina Zbinden, Ellis Fitzgerald, Behrooz Mansouri
 _AIIRLab Systems at SimpleText CLEF 2026: Ensemble and Multi-Agent Pipelines for Scientific Text Simplification_, 6088-6099
-([Paper](https://clef-staging.pages.dev/paper457.pdf)).
+([Paper](https://clef-staging.pages.dev/paper457.pdf), [Slides](slides/CLEF26_SimpleText_AIIRLab.pdf)).
 
 * 📶 <ins>Sujith M</ins>, Sree Krishna S, Varghese K James, Prabavathy Balasundaram
 _SSN Tokatrons at the CLEF 2026 SimpleText Track: Plan-Guided BART and Zero-Shot LLM Approaches to Biomedical Text Simplification_, 6160-6169
