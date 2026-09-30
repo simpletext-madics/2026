@@ -53,7 +53,7 @@ _HULAT-HAI @ SimpleText 2026 Task 1.1: Prompting Based on Linguistic Analysis fo
 
 * Pascal Mathas, Berkay Chakar, David Carranza Navarrete, <ins>Jan Bakker</ins>, Jaap Kamps
 _University of Amsterdam at the CLEF 2026 SimpleText Track_, 6170-6179
-([Paper](https://clef-staging.pages.dev/paper464.pdf)).
+([Paper](https://clef-staging.pages.dev/paper464.pdf), [Slides](slides/CLEF26_SimpleText_UvA.pdf)).
 
 * Benjamin Vendeville, <ins>Liana Ermakova</ins>, Pierre De Loor
 _UBONLP Report on the SimpleText Track at CLEF 2026_, 6233-6243
@@ -75,7 +75,7 @@ _SSN Tokatrons at the CLEF 2026 SimpleText Track: Plan-Guided BART and Zero-Shot
 
 * 📶 <ins>Artemis Capari</ins>, Hosein Azarbonyad, Zubair Afzal, George Tsatsaronis
 _Elsevier at CLEF 2026 SimpleText: Deconstructing Scientific Text Simplification with Direct and Multi-Stage LLM Approaches_, 6010-6034
-([Paper](https://clef-staging.pages.dev/paper451.pdf)).
+([Paper](https://clef-staging.pages.dev/paper451.pdf), [Slides](slides/CLEF26_SimpleText_Elsevier.pdf)).
 
 * 📶 <ins>Akio Hayakawa</ins>, Horacio Saggion
 _UPF-TALN at the CLEF 2026 SimpleText Track: Ensemble Approach for Scientific Text Simplification and Hallucination Classification_, 6100-6114
@@ -87,7 +87,7 @@ _Multilingual Scientific Text Simplification Using a Locally Deployed Open-Sourc
 
 * Clyde Lanvin Njinpie Noutche, <ins>Christin Katharina Kreutz</ins>
 _clnn88@SimpleText 2026 - Task 1: Llama 3-based Simplification for Biomedical Text_, 6196-6202
-([Paper](https://clef-staging.pages.dev/paper467.pdf)).
+([Paper](https://clef-staging.pages.dev/paper467.pdf), [Slides](slides/CLEF26_SimpleText_clnn88.pdf)).
 
 * (Time for additional talks, depending on demand, from the SimpleText track.)
 
@@ -103,11 +103,11 @@ _clnn88@SimpleText 2026 - Task 1: Llama 3-based Simplification for Biomedical Te
 
 * <ins>Shih-Hung Wu</ins>, Chong-Zhe Yan
 _CYUT at CLEF 2026 SimpleText Track: Hallucination Detection based on Retrieval-Aligned Contextual Fusion and Multi-Tier Cascaded Discernment_, 6244-6254
-([Paper](https://clef-staging.pages.dev/paper472.pdf)).
+([Paper](https://clef-staging.pages.dev/paper472.pdf), [Slides](slides/CLEF26_SimpleText_CYUT.pdf)).
 
 * <ins>Marc Hurtado</ins>, Vicent Ahuir, Antonio Molina, María-José Castro-Bleda
 _ELiRF-UPV at SimpleText 2026: Decoupling Action Prediction and Controlled Generation for Text Simplification_, 6115-6132
-([Paper](https://clef-staging.pages.dev/paper459.pdf)).
+([Paper](https://clef-staging.pages.dev/paper459.pdf), [Slides](slides/CLEF26_SimpleText_ELiRF-UPV.pdf)).
 
 * Sandra Conde, Pablo Folgueira, <ins>Alberto Díaz</ins>
 _NIL-UCM at the CLEF 2026 SimpleText Track: Prompting, Fine-Tuning, and Multi-Agent Architectures for Biomedical Text Simplification_, 6056-6067
@@ -115,7 +115,7 @@ _NIL-UCM at the CLEF 2026 SimpleText Track: Prompting, Fine-Tuning, and Multi-Ag
 
 * Julian Dauenhauer, Nico Hofmann, <ins>Christin Katharina Kreutz</ins>
 _THM@SimpleText 2026 - Task 2: Ensemble-based Hallucination Classification in Text Simplification_, 6079-6087
-([Paper](https://clef-staging.pages.dev/paper456.pdf)).
+([Paper](https://clef-staging.pages.dev/paper456.pdf), [Slides](slides/CLEF26_SimpleText_THM.pdf)).
 
 * (Time for additional talks, depending on demand, from the SimpleText track.)
 
