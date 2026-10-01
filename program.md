@@ -111,7 +111,7 @@ _ELiRF-UPV at SimpleText 2026: Decoupling Action Prediction and Controlled Gener
 
 * Sandra Conde, Pablo Folgueira, <ins>Alberto Díaz</ins>
 _NIL-UCM at the CLEF 2026 SimpleText Track: Prompting, Fine-Tuning, and Multi-Agent Architectures for Biomedical Text Simplification_, 6056-6067
-([Paper](https://clef-staging.pages.dev/paper454.pdf)).
+([Paper](https://clef-staging.pages.dev/paper454.pdf), [Slides](slides/CLEF26_SimpleText_NIL-UCM.pdf)).
 
 * Julian Dauenhauer, Nico Hofmann, <ins>Christin Katharina Kreutz</ins>
 _THM@SimpleText 2026 - Task 2: Ensemble-based Hallucination Classification in Text Simplification_, 6079-6087
