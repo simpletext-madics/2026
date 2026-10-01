@@ -49,7 +49,7 @@ _Overview of the CLEF 2026 SimpleText Task 3: Research Area Classification_, 594
 
 * 📶 Nuria Pirvu, <ins>Rémi Cardon</ins>
 _HULAT-HAI @ SimpleText 2026 Task 1.1: Prompting Based on Linguistic Analysis for Text Simplification_, 6203-6211
-([Paper](https://clef-staging.pages.dev/paper468.pdf)).
+([Paper](https://clef-staging.pages.dev/paper468.pdf), [Slides](slides/CLEF26_SimpleText_HULAT-HAI.pdf)).
 
 * Pascal Mathas, Berkay Chakar, David Carranza Navarrete, <ins>Jan Bakker</ins>, Jaap Kamps
 _University of Amsterdam at the CLEF 2026 SimpleText Track_, 6170-6179
