@@ -79,7 +79,7 @@ _Elsevier at CLEF 2026 SimpleText: Deconstructing Scientific Text Simplification
 
 * 📶 <ins>Akio Hayakawa</ins>, Horacio Saggion
 _UPF-TALN at the CLEF 2026 SimpleText Track: Ensemble Approach for Scientific Text Simplification and Hallucination Classification_, 6100-6114
-([Paper](https://clef-staging.pages.dev/paper458.pdf)).
+([Paper](https://clef-staging.pages.dev/paper458.pdf), [Slides](slides/CLEF26_SimpleText_UPF-TALN.pdf)).
 
 * 📶 <ins>Manoj Kumar</ins>, Prabavathy Balasundaram, Deeraj Kumar
 _Multilingual Scientific Text Simplification Using a Locally Deployed Open-Source LLM: Plan-Driven Sentence Simplification and Summary-Guided Document Simplification with Llama 3.1 8B at the CLEF 2026 SimpleText Track --- Task 1_, 6140-6152
