@@ -12,7 +12,7 @@ title: Program
 * [CLEF 2026 registration](https://clef2026.clef-initiative.eu/conference/registration/)
 * [CLEF 2026 program](https://clef2026.clef-initiative.eu/conference/program/)
 * [CLEF 2026 LNCS Proceedings](https://link.springer.com/book/9783032391490)
-* CLEF 2026 CEUR Working Notes
+* [CLEF 2026 CEUR Working Notes](https://ceur-ws.org/Vol-4283/)
   
 ------------------------------------------------------------
 
